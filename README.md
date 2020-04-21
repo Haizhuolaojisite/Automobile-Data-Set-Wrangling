@@ -1,2 +1,2 @@
-# Automobile-Data-Set-Wrangling
-My project in Python (numpy, pandas, matplotlib) for data wrangling and exploration
+# Automobile-Data-Set-Wrangling-Explorating-ModelDevelopment
+My project in Python (numpy, pandas, matplotlib) for data wrangling and exploration and model development
